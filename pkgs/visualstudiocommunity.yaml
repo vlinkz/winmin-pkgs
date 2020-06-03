@@ -1,0 +1,23 @@
+Id: visualstudiocommunity
+Name: Visual Studio Community
+Publisher: Microsoft Corporation
+Homepage: https://visualstudio.microsoft.com/
+License: Copyright (c) Microsoft Corporation. All rights reserved.
+LicenseUrl: https://visualstudio.microsoft.com/license-terms/
+Programs:
+    - Name: Visual Studio 2019
+      Icon:
+        Location: https://visualstudio.microsoft.com/wp-content/uploads/2019/06/BrandVisualStudioWin2019-3.svg
+        Link: true  
+    - Name: Visual Studio Installer
+      Icon:
+        Location: http://download1653.mediafire.com/dpauqyn3anvg/7m7kcjmv16lis5d/vsinstaller.png
+        Link: true
+    - Name: Blend for Visual Studio 2019
+      Icon:
+        Location: https://download843.mediafire.com/5hmvrop5blkg/pejypr3nxp0kwu6/blend.png
+        Link: true
+Installer:
+    Arch: x64
+    InstallerType: exe
+    Url: https://aka.ms/vs/16/release/vs_community.exe

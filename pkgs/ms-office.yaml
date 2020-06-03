@@ -1,0 +1,39 @@
+Id: msoffice
+Name: Microsoft Office
+Publisher: Microsoft Corporation
+Homepage: https://office.com/
+License: Copyright (c) Microsoft Corporation. All rights reserved.
+LicenseUrl: https://www.microsoft.com/en-us/useterms
+Programs:
+    - Name: Word
+      Icon:
+        Location: ms-word
+        Link: false  
+    - Name: PowerPoint
+      Icon:
+        Location: ms-powerpoint
+        Link: false
+    - Name: Excel
+      Icon:
+        Location: ms-excel
+        Link: false
+    - Name: Outlook
+      Icon:
+        Location: ms-outlook
+        Link: false  
+    - Name: OneNote
+      Icon:
+        Location: ms-onenote
+        Link: false
+    - Name: Access
+      Icon:
+        Location: https://i0.wp.com/codixy.uk/wp-content/uploads/2019/08/1920px-Microsoft_Office_Access_2018-present.svg.png
+        Link: true
+    - Name: Publisher
+      Icon:
+        Location: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Microsoft_Office_Publisher_%282019-present%29.svg/1200px-Microsoft_Office_Publisher_%282019-present%29.svg.png
+        Link: true  
+Installer:
+    Arch: x64
+    InstallerType: web
+    Url: https://office.com/
