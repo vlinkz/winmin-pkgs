@@ -7,24 +7,24 @@ LicenseUrl: https://www.microsoft.com/en-us/useterms
 Programs:
     - Name: Word
       Icon:
-        Location: ms-word
-        Link: false  
+        Location: https://raw.githubusercontent.com/PapirusDevelopmentTeam/papirus-icon-theme/master/Papirus/64x64/apps/ms-word.svg
+        Link: true
     - Name: PowerPoint
       Icon:
-        Location: ms-powerpoint
-        Link: false
+        Location: https://raw.githubusercontent.com/PapirusDevelopmentTeam/papirus-icon-theme/master/Papirus/64x64/apps/ms-powerpoint.svg
+        Link: true
     - Name: Excel
       Icon:
-        Location: ms-excel
-        Link: false
+        Location: https://raw.githubusercontent.com/PapirusDevelopmentTeam/papirus-icon-theme/master/Papirus/64x64/apps/ms-excel.svg
+        Link: true
     - Name: Outlook
       Icon:
-        Location: ms-outlook
-        Link: false  
+        Location: https://raw.githubusercontent.com/PapirusDevelopmentTeam/papirus-icon-theme/master/Papirus/64x64/apps/ms-outlook.svg
+        Link: true
     - Name: OneNote
       Icon:
-        Location: ms-onenote
-        Link: false
+        Location: https://raw.githubusercontent.com/PapirusDevelopmentTeam/papirus-icon-theme/master/Papirus/64x64/apps/ms-onenote.svg
+        Link: true
     - Name: Access
       Icon:
         Location: https://i0.wp.com/codixy.uk/wp-content/uploads/2019/08/1920px-Microsoft_Office_Access_2018-present.svg.png
