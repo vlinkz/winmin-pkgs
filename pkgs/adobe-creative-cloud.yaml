@@ -1,0 +1,103 @@
+Id: adobecreativecloud
+Name: Adobe Creative Cloud
+Publisher: Adobe Inc.
+Homepage: https://www.adobe.com/creativecloud/desktop-app.html
+License: Copyright (c) 2020 Adobe. All rights reserved.
+LicenseUrl: https://www.adobe.com/legal/terms.html
+Programs:
+    - Name: Adobe Creative Cloud
+      Icon:
+        Location: https://upload.wikimedia.org/wikipedia/en/thumb/c/c1/Adobe_Creative_Cloud_CC_icon.svg/240px-Adobe_Creative_Cloud_CC_icon.svg.png
+        Link: true
+
+    - Name: Adobe Acrobat DC
+      Icon:
+        Location: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Adobe_Acrobat_DC_icon.svg/512px-Adobe_Acrobat_DC_icon.svg.png
+        Link: true
+    - Name: Adobe Acrobat Distiller DC
+      Icon:
+        Location: https://upload.wikimedia.org/wikipedia/commons/8/86/Adobe_Distiller_X_icon.png
+        Link: true
+    - Name: Adobe After Effects 2020
+      Icon:
+        Location: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Adobe_After_Effects_CC_icon.svg/512px-Adobe_After_Effects_CC_icon.svg.png
+        Link: true
+    - Name: Adobe Animate 2020
+      Icon:
+        Location: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Adobe_Animate_CC_icon.svg/240px-Adobe_Animate_CC_icon.svg.png
+        Link: true
+    - Name: Adobe Audition 2020
+      Icon:
+        Location: https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Adobe_Audition_CC_icon.svg/240px-Adobe_Audition_CC_icon.svg.png
+        Link: true
+    - Name: Adobe Bridge 2020
+      Icon:
+        Location: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Adobe_Bridge_CC_icon.svg/240px-Adobe_Bridge_CC_icon.svg.png
+        Link: true
+    - Name: Adobe Character Animator 2020
+      Icon:
+        Location: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Adobe_Character_Animator_icon.png/613px-Adobe_Character_Animator_icon.png
+        Link: true
+    - Name: Adobe Dreamweaver 2020
+      Icon:
+        Location: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Adobe_Dreamweaver_CC_icon.svg/240px-Adobe_Dreamweaver_CC_icon.svg.png
+        Link: true
+    - Name: Adobe Fuse CC (Beta)
+      Icon:
+        Location: https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Adobe_Fuse_Logo.svg/512px-Adobe_Fuse_Logo.svg.png
+        Link: true
+    - Name: Adobe Illustrator 2020
+      Icon:
+        Location: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Adobe_Illustrator_CC_icon.svg/512px-Adobe_Illustrator_CC_icon.svg.png
+        Link: true
+    - Name: Adobe InCopy 2020
+      Icon:
+        Location: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Adobe_InCopy_CC_icon.svg/240px-Adobe_InCopy_CC_icon.svg.png
+        Link: true
+    - Name: Adobe InDesign 2020
+      Icon:
+        Location: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Adobe_InDesign_CC_icon.svg/512px-Adobe_InDesign_CC_icon.svg.png
+        Link: true
+    - Name: Adobe Lightroom Classic
+      Icon:
+        Location: https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Adobe_Photoshop_Lightroom_Classic_CC_icon.svg/512px-Adobe_Photoshop_Lightroom_Classic_CC_icon.svg.png
+        Link: true
+    - Name: Adobe Lightroom
+      Icon:
+        Location: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Adobe_Photoshop_Lightroom_CC_logo.svg/512px-Adobe_Photoshop_Lightroom_CC_logo.svg.png
+        Link: true
+    - Name: Adobe Media Encoder 2020
+      Icon:
+        Location: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Adobe_Media_Encoder_Icon.svg/512px-Adobe_Media_Encoder_Icon.svg.png
+        Link: true
+    - Name: Adobe Photoshop 2020
+      Icon:
+        Location: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/512px-Adobe_Photoshop_CC_icon.svg.png
+        Link: true
+    - Name: Adobe Prelude 2020
+      Icon:
+        Location: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Adobe_Prelude_CC_icon.svg/240px-Adobe_Prelude_CC_icon.svg.png
+        Link: true
+    - Name: Adobe Premiere Pro 2020
+      Icon:
+        Location: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Adobe_Premiere_Pro_CC_icon.svg/512px-Adobe_Premiere_Pro_CC_icon.svg.png
+        Link: true
+    - Name: Adobe Premiere Rush 1.5
+      Icon:
+        Location: https://vignette.wikia.nocookie.net/adobe/images/f/fd/Adobe_Premiere_Rush_CC_icon.svg/revision/latest/scale-to-width-down/512
+        Link: true
+    - Name: Adobe XD
+      Icon:
+        Location: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Adobe_XD_CC_icon.svg/240px-Adobe_XD_CC_icon.svg.png
+        Link: true
+    - Name: Dimension
+      Icon:
+        Location: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Adobe_Dimension_Logo.svg/512px-Adobe_Dimension_Logo.svg.png
+        Link: true
+
+# There is also a direct link to the installer available: https://helpx.adobe.com/download-install/kb/creative-cloud-desktop-app-download.html#ProblemsinstallingTryalternativedownloadlinks
+# However, that is distributed as a ZIP which isn't supported yet.
+Installer:
+    Arch: x64
+    InstallerType: web
+    Url: https://creativecloud.adobe.com/apps/all/desktop?action=install&source=apps&productId=creative-cloud
